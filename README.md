@@ -1,6 +1,6 @@
 My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=caubuchon/)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=caubuchon/FLEET-FE)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=caubuchon&show_icons=true)
 
