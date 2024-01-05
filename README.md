@@ -1,6 +1,6 @@
 My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=caubuchon&show_icons=true)
 
 <!--
 **caubuchon/caubuchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
