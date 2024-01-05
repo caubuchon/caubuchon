@@ -1,11 +1,6 @@
 My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=caubuchon&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caubuchon&theme=blue-green)
-![Your Repository's Stats](https://contrib.rocks/image?repo=caubuchon/FILLD_FE2)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Profile View Counter](https://komarev.com/ghpvc/?username=caubuchon)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/caubuchon/)
 
 <!--
 **caubuchon/caubuchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=caubuchon&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caubuchon&theme=blue-green)
+![Your Repository's Stats](https://contrib.rocks/image?repo=caubuchon/FILLD_FE2)
+
 -->
