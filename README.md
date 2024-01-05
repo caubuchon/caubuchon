@@ -1,5 +1,7 @@
 My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=caubuchon/Your_GitHub_Repository_Name)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=caubuchon&show_icons=true)
 
 <!--
