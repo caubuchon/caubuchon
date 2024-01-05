@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
 <!--
 **caubuchon/caubuchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
