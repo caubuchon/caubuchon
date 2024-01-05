@@ -1,4 +1,6 @@
-My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
+My name is Chris Aubuchon. Let the facts guide our path... I love solving hard problems and creating great products/experiences.
+
+Experienced data engineer and scientist. As a disruptor, innovator, builder, executive with advanced technical skills, he has a demonstrated history of working in the Technology, Semiconductor, SaaS, Software, MEMS, Machine Learning, Automotive, Mobile Services, Logistics, and Oil & Energy industries. Skilled in Board level communication, Patent Analysis, Data Analytics, Management, and M & A. Strong operations and efficiency professional with a Ph.D. in Physical Chemistry from Stanford University. 
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caubuchon/)
 
