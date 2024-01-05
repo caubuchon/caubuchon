@@ -1,5 +1,7 @@
 My name is Chris Aubuchon. I'm a _ _ living in _ _, _ _ and _ _.
 
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caubuchon/)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
